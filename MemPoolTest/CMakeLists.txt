@@ -9,4 +9,4 @@ aux_source_directory(.  DIR_ROOT)
 
 set(CMAKE_CXX_STANDARD  11)
 
-add_executable(${PROJECT_NAME} MiniMemPool.cpp DoTest.cpp leetcode/leetcode.cpp)
+add_executable(${PROJECT_NAME} MiniMemPool.cpp DoTest.cpp)
